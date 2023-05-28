@@ -1,6 +1,6 @@
 html{
-    background-color: black;
-    color: #f4f4f4;
+    background-color: #EBD8B2;
+    color: #0A4D68;
 }
 body h3{
     /* color: whitesmoke; */
@@ -9,6 +9,7 @@ body h3{
 }
 .pic{
     position: relative;
+    
 }
 .pic .photo{
     position: relative;
